@@ -19,7 +19,7 @@ barricadas que impidan (Lo más posible) que entren y te ataquen, *¿Cuánto tie
 # Juega en todos Lados
 Hecho para sistemas Android, lleva la acción de The Darkest Invasión a todos lados con un juego hecho para dispositivos móviles
 
-![Titulo del juego](Documentación/Imagenes/Final_Title.jpg)
+![Titulo del juego](Documentación/Imagenes/Final_Title.png)
 # Créditos
 
 Videojuego hecho para **SODVI**
