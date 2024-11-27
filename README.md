@@ -23,7 +23,9 @@ Videojuego hecho para **SODVI**
 **Integrantes**
 
 Magno García Omar - *Mánager*
+
 Hernández Méndez Nelly - *Artista*
+
 Lombana Bermudez Andres Mauricio - *Coder*
 
 **Semestre: 2025-1**
