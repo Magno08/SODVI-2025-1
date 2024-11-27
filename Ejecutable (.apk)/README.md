@@ -1,1 +1,1 @@
-![Titulo del juego](main/Documentación/Imagenes/Final_Title.png)
+![Titulo del juego](Final_Title.png)
